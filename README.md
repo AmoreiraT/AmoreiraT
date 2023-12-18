@@ -1,3 +1,4 @@
+
 <!-- Language Selection -->
 <p align="center">
   <a href="#english">English</a> |
@@ -15,31 +16,39 @@
   </ul>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&size=22&duration=8000&pause=1000&color=26CD46&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Blending+Art+and+Technology)](https://git.io/typing-svg)
+
 <!--- snake -->
 <div align="center">
-  <img  src="your-snake-game-animation-url" alt="snake" /></a>
-</div>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Blending Art and Technology</h2></summary>
-  </ul>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 <!--Intro start-->
-- 🔭 Currently working on **Web and Mobile UI/UX Design, ReactJs, Flutter**
-- 🌱 Learning **Advanced Web Technologies and Cloud Computing**
+- 🔭 Currently working as **Tech Lead and FullStack Developer**
+- 🌱 Learning **Advanced Web and Mobile Technologies and Art**
 - 💬 Ask me about **UI/UX, Angular, Unity 3D**
 - 📫 Reach me at **[thmoreiralab@gmail.com](mailto:thmoreiralab@gmail.com)**
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/AmoreiraT)**
-- 📝 View my portfolio [Here](your-portfolio-link)
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/AmoreiraT?tab=repositories)**
+- 📝 View my portfolio [Here](./THAIGO_MOREIRA_CVPORTIFOLIOEnglish.pdf)
 - 📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/amoreirath/)
 <!--Intro end-->
 
-<!--- stats & Trophy (start) -->
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-<!--- Insert your GitHub stats and trophies here -->
+<a href="https://github.com/AmoreiraT">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmoreiraT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmoreiraT&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
+
+[![Ketan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmoreiraT&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmoreiraT&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/AmoreiraT/github-readme-stats)
+
 </p>
 <!--- stats & Trophy (end) -->
 
