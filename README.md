@@ -27,6 +27,12 @@
 </picture>
 </div>
 
+
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmoreiraT&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmoreiraT&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmoreiraT&theme=dracula)
+
 <!--Intro start-->
 - 🔭 Currently working as **Tech Lead and FullStack Developer**
 - 🌱 Learning **Advanced Web and Mobile Technologies and Art**
