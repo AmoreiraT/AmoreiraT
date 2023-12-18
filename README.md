@@ -30,7 +30,6 @@
 <!--Intro start-->
 - 🔭 Currently working as **Tech Lead and FullStack Developer**
 - 🌱 Learning **Advanced Web and Mobile Technologies and Art**
-- 💬 Ask me about **UI/UX, Angular, Unity 3D**
 - 📫 Reach me at **[thmoreiralab@gmail.com](mailto:thmoreiralab@gmail.com)**
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/AmoreiraT?tab=repositories)**
 - 📝 View my portfolio [Here](./THAIGO_MOREIRA_CVPORTIFOLIOEnglish.pdf)
@@ -49,14 +48,6 @@
 </p>
 <!--- stats & Trophy (end) -->
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<div>
-
 ## 🛠️ &nbsp;My Tech Stacks
 
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
@@ -74,11 +65,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-</div>
-
-<!--profile visit count-->
-<div align="center">
-  <!-- Insert profile visit count badge here -->
 </div>
 
 <!--horizontal divider(gradiant)-->
