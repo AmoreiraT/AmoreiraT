@@ -37,10 +37,12 @@
 <!--Intro end-->
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+<div align="center">
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmoreiraT&theme=tokyonight)
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmoreiraT&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmoreiraT&theme=tokyonight)
+  </div>
+
 <p align="center">
 <a href="https://github.com/AmoreiraT">
 
