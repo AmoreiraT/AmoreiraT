@@ -27,12 +27,6 @@
 </picture>
 </div>
 
-
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmoreiraT&theme=dracula)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmoreiraT&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmoreiraT&theme=dracula)
-
 <!--Intro start-->
 - 🔭 Currently working as **Tech Lead and FullStack Developer**
 - 🌱 Learning **Advanced Web and Mobile Technologies and Art**
@@ -46,6 +40,10 @@
 
 <p align="center">
 <a href="https://github.com/AmoreiraT">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmoreiraT&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmoreiraT&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmoreiraT&theme=tokyonight)
+
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmoreiraT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmoreiraT&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
